@@ -1,0 +1,14 @@
+{
+  "name": "TestingTestTest",
+  "version": "1.0.0",
+  "main": "scketch.js",
+  "repository": "https://github.com/GabrielDVpereira/TestingTestTest.git",
+  "author": "Gabriel Davi <gdavi.gd@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
